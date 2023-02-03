@@ -456,6 +456,11 @@ b, strong {
   color: #ffc200;
 }
 
+.profile-user {
+  width: 30%;
+  border-radius: 50%;
+}
+
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
