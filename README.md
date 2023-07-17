@@ -28,7 +28,7 @@
 # 📖 [About the Project] <a name="about-project"></a>
 
 
-**[Leslie's Portfolio]** is a website that introduces me as a web developer and the projects I have worked on
+**[Leslie's Portfolio]** is a website that introduces me as a Full-Stack developer and the projects I have worked on
 
 ## 🛠 Built With <a name="built-with"></a>
 
